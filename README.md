@@ -1,0 +1,3 @@
+- 👋 Salve!!! 
+- Me chamo Vitor Gustavo e estou com 15 anos
+- sei o basico de python, html, css e to na busca de aprender javaScript ;)
