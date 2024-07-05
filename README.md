@@ -1,7 +1,6 @@
 <h1 align="left">Olá!</h1>
 
-- 💬 Estou em busca de me tornar um dev full-stack
-
+- 💬
 
 
 <br><br>
