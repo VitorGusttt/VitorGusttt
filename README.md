@@ -1,6 +1,7 @@
-<h1 align="left">Olá!</h1>
+<h1 align="left">Olá! Me chamo Vitor estudo desenvolvimento Back-end!</h1>
 
-- 💬
+- Atualmente estou estudando Java
+- Em busca de um primeiro emprego 
 
 
 <br><br>
@@ -14,3 +15,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=Php)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Php)&nbsp;
+
