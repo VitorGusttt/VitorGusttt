@@ -1,5 +1,6 @@
-<h1 align="left">Olá! Me chamo Vitor estudo desenvolvimento Back-end!</h1>
+<h1 align="left">Olá!</h1>
 
+- Me chamo Vitor estudo desenvolvimento Back-end!
 - Atualmente estou estudando Java
 - Em busca de um primeiro emprego 
 
