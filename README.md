@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back End`**
 
-Me chamo Vitor Freitas, tenho  18 anos e sou natural do Paraná. Concluí o ensino médio no IFPR, com o curso técnico em informática. Atualmente, estou cursando Licenciatura em Geografia na UEPG".
+Me chamo Vitor Freitas, tenho  18 anos e sou natural do Paraná. Concluí o ensino médio no IFPR, com o curso técnico em informática. Atualmente, estou cursando Licenciatura em Geografia na UEPG.
 
 <p align="left">
     <a href="https://github.com/VitorGusttt?tab=repositories&sort=stargazers">
